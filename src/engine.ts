@@ -19,7 +19,7 @@ var Color;
     Color["Blue"] = "BLUE";
     Color["Indigo"] = "INDIGO";
     Color["Violet"] = "VIOLET";
-    Color["LightBlue"] = "";
+    Color["LightBlue"] = "LIGHTBLUE";
 })(Color || (Color = {}));
 var Direction;
 (function (Direction) {
